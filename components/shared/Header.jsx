@@ -8,11 +8,11 @@ const navItems = [
   },
   {
     src: "/images/telegram.svg",
-    href: "/",
+    href: "https://t.me/+4k7UxYskhRBjY2Zk",
   },
   {
     src: "/images/x.svg",
-    href: "/",
+    href: "https://x.com/McShibCoin?s=09",
   },
 ];
 
